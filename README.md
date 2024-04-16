@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Maxwell, You can also call me Prof 👋
 
-<!--
-**MaxCio/MaxCio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me 🌱
+I am a data enthusiast, BI Developer, Data Engineer and full-time IT and Infrastructure Support ✨
+SQL, Power BI, Power App, Tableau, Python, C#, Javascript are my favourite languages 📖
+Open minded, Adapt Easily, Ready to Learn and curiosity 🧠
 
-Here are some ideas to get you started:
+I'm currently working on 🚴🏻‍♀️
+Building up my data manipulation skills using Python, PySpark.
+Using tools like Tableau and Power BI to visualise datasets
+Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL
+Reach me on 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
